@@ -20,7 +20,7 @@
 
 <!-- O PROJEKCIE -->
 ## O projekcie
-Habit Tracker jest to aplikacja webowa stworzona jako projekt zaliczeniowy kursu "Iternet Technologies" na Politechnice ślaskiej. Głównym zadaniem tej aplikacji jest śledzenie naszych nawyków aby można w łatwy sposób śledzić ich poczynania oraz swoją systematyczność.
+Habit Tracker jest to aplikacja webowa, stworzona jako projekt zaliczeniowy kursu "Iternet Technologies" na Politechnice Ślaskiej. Głównym zadaniem tej aplikacji jest śledzenie naszych nawyków, aby można w łatwy sposób śledzić ich poczynania oraz swoją systematyczność.
 
 <!-- ROADMAP -->
 ## Roadmap
