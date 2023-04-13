@@ -1,0 +1,26 @@
+14.11
+
+[X] Poprawić wszystkie nazwy na ang
+[X] Zabezpiczyć logowanie przed wstrzykiwaniem
+[X] Ogarnać baze danych
+[X] Ogarnać zeby strona logowania ładnie wyglądała
+[X] Ogarnać zeby strona rejestrowania ładnie wyglądała
+[X] zrobić rejestrowaniai je Zabezpiczyć
+[X] szyfrowanie haseł
+
+21.11
+
+[X] wyświeltanie habitow
+
+12.12
+w tym tygodniu prace serwisowe za duzo roboty na studia XDDDDDDDD wiec wybraliśmy sobie pare rzeczy które jestesmy pewni ze nie zajmie
+nam zbyt długo. it ain't much but its honest work
+
+[X] optymalizacja - castowanie boola na boola  //if (ctype_alnum($login) == false) -> if (!ctype_alnum($login))
+[X] bugfix - usuwanie habitu nie usuwa z tabeli info
+[X] bugfix - literówki
+[X] lepsze wyswietlanie streaków 
+[X] sprawdzenie kodu, próby optymalizacji
+[X] ochrona przed wstrzsyskiwaniem w logowaniu - zrobione w połowie
+[X] ogarniecie bazy danych pod względem wielkości zmiennych
+[X] formatowanie wygladu pliku .php bo zrobiły sie lekko nie czytelne
